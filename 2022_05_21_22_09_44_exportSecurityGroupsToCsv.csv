@@ -1,2 +1,0 @@
-GroupId,GroupName,VpcId,Description,OwnerId,InboundRulesCount,OutboundRulesCount,Tags
-sg-019c0843ea5fce16b,tomcat,vpc-0cd6fa269bca303b8,tomcat,239591109290,4,1,
